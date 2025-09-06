@@ -13,6 +13,7 @@ Here is some Leetcode Problem solution
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rush026/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
