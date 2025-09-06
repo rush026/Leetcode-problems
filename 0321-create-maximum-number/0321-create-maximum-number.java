@@ -15,7 +15,7 @@ class Solution {
         return best;
     }
 
-    // Get max subsequence of length k using monotonic stack
+    
     private int[] maxSubsequence(int[] nums, int k) {
         int n = nums.length;
         int[] stack = new int[k];
