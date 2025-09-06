@@ -7,6 +7,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rush026/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +33,16 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
+## Greedy
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
