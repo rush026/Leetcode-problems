@@ -15,6 +15,7 @@ Here is some Leetcode Problem solution
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rush026/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
+| [2577-count-palindromic-subsequences](https://github.com/rush026/Leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 ## Trie
 |  |
 | ------- |
@@ -45,4 +46,8 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2577-count-palindromic-subsequences](https://github.com/rush026/Leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 <!---LeetCode Topics End-->
