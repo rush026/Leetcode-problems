@@ -14,6 +14,7 @@ Here is some Leetcode Problem solution
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rush026/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
 | [2577-count-palindromic-subsequences](https://github.com/rush026/Leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 ## Trie
@@ -41,6 +42,7 @@ Here is some Leetcode Problem solution
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
@@ -49,5 +51,10 @@ Here is some Leetcode Problem solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [2577-count-palindromic-subsequences](https://github.com/rush026/Leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
