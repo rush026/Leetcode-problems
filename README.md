@@ -6,6 +6,7 @@ Here is some Leetcode Problem solution
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## String
@@ -57,4 +58,12 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
