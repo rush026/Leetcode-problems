@@ -9,6 +9,7 @@ Here is some Leetcode Problem solution
 | [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## String
 |  |
@@ -32,6 +33,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
 ## Math
 |  |
@@ -72,4 +74,5 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
