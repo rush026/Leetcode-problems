@@ -47,6 +47,7 @@ Here is some Leetcode Problem solution
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/rush026/Leetcode-problems/tree/master/0223-rectangle-area) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +112,8 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/rush026/Leetcode-problems/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
