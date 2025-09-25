@@ -37,17 +37,20 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
