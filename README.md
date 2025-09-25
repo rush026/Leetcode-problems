@@ -48,6 +48,7 @@ Here is some Leetcode Problem solution
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/rush026/Leetcode-problems/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,4 +118,8 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/rush026/Leetcode-problems/tree/master/0223-rectangle-area) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
