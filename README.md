@@ -54,6 +54,7 @@ Here is some Leetcode Problem solution
 | [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/rush026/Leetcode-problems/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Here is some Leetcode Problem solution
 | ------- |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [2577-count-palindromic-subsequences](https://github.com/rush026/Leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
 ## Recursion
 |  |
@@ -134,4 +136,8 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
