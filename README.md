@@ -53,6 +53,7 @@ Here is some Leetcode Problem solution
 | [0223-rectangle-area](https://github.com/rush026/Leetcode-problems/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
+| [0263-ugly-number](https://github.com/rush026/Leetcode-problems/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
 | ------- |
