@@ -22,6 +22,7 @@ Here is some Leetcode Problem solution
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rush026/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
 | [2577-count-palindromic-subsequences](https://github.com/rush026/Leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
@@ -45,6 +46,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/rush026/Leetcode-problems/tree/master/0223-rectangle-area) |
@@ -124,5 +126,10 @@ Here is some Leetcode Problem solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
