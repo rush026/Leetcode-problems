@@ -12,6 +12,7 @@ Here is some Leetcode Problem solution
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/rush026/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [2577-count-palindromic-subsequences](https://github.com/rush026/Leetcode-problems/tree/master/2577-count-palindromic-subsequences) |
