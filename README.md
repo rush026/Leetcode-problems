@@ -10,6 +10,7 @@ Here is some Leetcode Problem solution
 | [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rush026/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +81,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
@@ -99,6 +101,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
 ## Sorting
 |  |
