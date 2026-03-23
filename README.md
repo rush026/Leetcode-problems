@@ -17,6 +17,7 @@ Here is some Leetcode Problem solution
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/rush026/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## String
 |  |
@@ -150,4 +151,8 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rush026/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
