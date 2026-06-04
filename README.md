@@ -9,6 +9,7 @@ Here is some Leetcode Problem solution
 | [0001-two-sum](https://github.com/rush026/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/rush026/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rush026/Leetcode-problems/tree/master/0056-merge-intervals) |
@@ -124,6 +125,7 @@ Here is some Leetcode Problem solution
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rush026/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
 ## Enumeration
 |  |
