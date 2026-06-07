@@ -59,6 +59,7 @@ Here is some Leetcode Problem solution
 | [0223-rectangle-area](https://github.com/rush026/Leetcode-problems/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/rush026/Leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rush026/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/rush026/Leetcode-problems/tree/master/0342-power-of-four) |
@@ -135,6 +136,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/rush026/Leetcode-problems/tree/master/0258-add-digits) |
 ## Geometry
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rush026/Leetcode-problems/tree/master/0258-add-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
