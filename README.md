@@ -13,6 +13,7 @@ Here is some Leetcode Problem solution
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rush026/Leetcode-problems/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
@@ -45,6 +46,7 @@ Here is some Leetcode Problem solution
 | ------- |
 | [0001-two-sum](https://github.com/rush026/Leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
@@ -160,4 +162,8 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rush026/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
