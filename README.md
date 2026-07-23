@@ -9,6 +9,7 @@ Here is some Leetcode Problem solution
 | [0001-two-sum](https://github.com/rush026/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/rush026/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/rush026/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
@@ -69,6 +70,7 @@ Here is some Leetcode Problem solution
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/rush026/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
