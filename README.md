@@ -15,6 +15,7 @@ Here is some Leetcode Problem solution
 | [0056-merge-intervals](https://github.com/rush026/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/rush026/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
@@ -87,6 +88,7 @@ Here is some Leetcode Problem solution
 | ------- |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/rush026/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
