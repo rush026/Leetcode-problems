@@ -12,6 +12,7 @@ Here is some Leetcode Problem solution
 | [0031-next-permutation](https://github.com/rush026/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/rush026/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/rush026/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rush026/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -57,6 +58,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/rush026/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
@@ -172,5 +174,6 @@ Here is some Leetcode Problem solution
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rush026/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
