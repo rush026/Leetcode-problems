@@ -26,6 +26,7 @@ Here is some Leetcode Problem solution
 | [0238-product-of-array-except-self](https://github.com/rush026/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/rush026/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Here is some Leetcode Problem solution
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
+| [2965-find-missing-and-repeated-values](https://github.com/rush026/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Here is some Leetcode Problem solution
 | [0263-ugly-number](https://github.com/rush026/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/rush026/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/rush026/Leetcode-problems/tree/master/0342-power-of-four) |
+| [2965-find-missing-and-repeated-values](https://github.com/rush026/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,4 +183,5 @@ Here is some Leetcode Problem solution
 | ------- |
 | [0048-rotate-image](https://github.com/rush026/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/rush026/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
