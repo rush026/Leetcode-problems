@@ -24,6 +24,7 @@ Here is some Leetcode Problem solution
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rush026/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## String
 |  |
@@ -78,6 +79,7 @@ Here is some Leetcode Problem solution
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
@@ -110,6 +112,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +160,7 @@ Here is some Leetcode Problem solution
 | ------- |
 | [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rush026/Leetcode-problems/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
