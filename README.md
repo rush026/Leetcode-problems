@@ -63,6 +63,7 @@ Here is some Leetcode Problem solution
 | ------- |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rush026/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/rush026/Leetcode-problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
@@ -109,6 +110,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/rush026/Leetcode-problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/rush026/Leetcode-problems/tree/master/0342-power-of-four) |
