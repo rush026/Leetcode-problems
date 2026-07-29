@@ -25,6 +25,7 @@ Here is some Leetcode Problem solution
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rush026/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rush026/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
@@ -58,6 +59,7 @@ Here is some Leetcode Problem solution
 | [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rush026/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
 | [2965-find-missing-and-repeated-values](https://github.com/rush026/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -140,6 +142,7 @@ Here is some Leetcode Problem solution
 | [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rush026/Leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -197,4 +200,5 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rush026/Leetcode-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
