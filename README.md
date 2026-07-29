@@ -21,6 +21,7 @@ Here is some Leetcode Problem solution
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rush026/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/rush026/Leetcode-problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -54,6 +55,7 @@ Here is some Leetcode Problem solution
 | [0001-two-sum](https://github.com/rush026/Leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rush026/Leetcode-problems/tree/master/0290-word-pattern) |
@@ -126,6 +128,7 @@ Here is some Leetcode Problem solution
 | [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rush026/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Here is some Leetcode Problem solution
 | [0075-sort-colors](https://github.com/rush026/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 ## Linked List
@@ -189,4 +193,8 @@ Here is some Leetcode Problem solution
 | [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rush026/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/rush026/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
