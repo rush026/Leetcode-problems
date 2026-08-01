@@ -9,6 +9,7 @@ Here is some Leetcode Problem solution
 | [0001-two-sum](https://github.com/rush026/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rush026/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rush026/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/rush026/Leetcode-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rush026/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/rush026/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
@@ -83,6 +84,7 @@ Here is some Leetcode Problem solution
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rush026/Leetcode-problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/rush026/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rush026/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -134,6 +136,7 @@ Here is some Leetcode Problem solution
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/rush026/Leetcode-problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/rush026/Leetcode-problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rush026/Leetcode-problems/tree/master/0075-sort-colors) |
