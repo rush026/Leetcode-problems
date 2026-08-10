@@ -119,6 +119,7 @@ Here is some Leetcode Problem solution
 | ------- |
 | [0044-wildcard-matching](https://github.com/rush026/Leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/rush026/Leetcode-problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/rush026/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/rush026/Leetcode-problems/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/rush026/Leetcode-problems/tree/master/0342-power-of-four) |
@@ -152,6 +153,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/rush026/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
