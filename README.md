@@ -87,6 +87,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0018-4sum](https://github.com/rush026/Leetcode-problems/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rush026/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rush026/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rush026/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -154,6 +155,7 @@ Here is some Leetcode Problem solution
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rush026/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rush026/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/rush026/Leetcode-problems/tree/master/0206-reverse-linked-list) |
