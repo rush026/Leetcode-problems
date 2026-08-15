@@ -30,6 +30,7 @@ Here is some Leetcode Problem solution
 | [0238-product-of-array-except-self](https://github.com/rush026/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rush026/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/rush026/Leetcode-problems/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -152,6 +153,7 @@ Here is some Leetcode Problem solution
 | [0179-largest-number](https://github.com/rush026/Leetcode-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rush026/Leetcode-problems/tree/master/0229-majority-element-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rush026/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -218,4 +220,8 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rush026/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rush026/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
