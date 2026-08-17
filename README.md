@@ -60,6 +60,7 @@ Here is some Leetcode Problem solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/rush026/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rush026/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/rush026/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rush026/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rush026/Leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -93,6 +94,7 @@ Here is some Leetcode Problem solution
 | [0075-sort-colors](https://github.com/rush026/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rush026/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/rush026/Leetcode-problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/rush026/Leetcode-problems/tree/master/0321-create-maximum-number) |
@@ -160,6 +162,7 @@ Here is some Leetcode Problem solution
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rush026/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rush026/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/rush026/Leetcode-problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rush026/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rush026/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rush026/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
