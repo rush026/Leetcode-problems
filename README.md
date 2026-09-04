@@ -20,6 +20,7 @@ Here is some Leetcode Problem solution
 | [0074-search-a-2d-matrix](https://github.com/rush026/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rush026/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rush026/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/rush026/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/rush026/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rush026/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rush026/Leetcode-problems/tree/master/0169-majority-element) |
@@ -177,6 +178,7 @@ Here is some Leetcode Problem solution
 | ------- |
 | [0046-permutations](https://github.com/rush026/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rush026/Leetcode-problems/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/rush026/Leetcode-problems/tree/master/0090-subsets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Here is some Leetcode Problem solution
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rush026/Leetcode-problems/tree/master/0067-add-binary) |
+| [0090-subsets-ii](https://github.com/rush026/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/rush026/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rush026/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rush026/Leetcode-problems/tree/master/0342-power-of-four) |
